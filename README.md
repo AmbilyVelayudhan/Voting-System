@@ -31,7 +31,7 @@ This project implements a secure, transparent, and tamper-proof voting system us
 📁 File Structure
 
 blockchain-voting-system/
-│
+
 ├── app.py               
 ├── blockchain.json       
 ├── requirements.txt      
